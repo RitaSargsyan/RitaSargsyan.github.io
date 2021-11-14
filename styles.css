@@ -1,0 +1,77 @@
+h1{
+
+    color: black;
+    font-family: 'Spectral', serif;
+    
+}
+h2{
+    font-family: 'Spectral', serif;
+     font-weight: bold;
+    font-size: 600px ;
+}
+h3{
+    font-family: 'Spectral', serif;
+    font-weight: bold;
+}
+
+#content img{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+.center{
+    position:relative;
+    top: -150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.profile{
+
+    position: relative;
+    top:50px;
+    left: 60%;
+
+    height: auto;
+  }
+.bio{
+text-align: left;
+position: relative;
+top:2px;
+left: 27%;
+
+
+}
+.col-4{
+    text-align: left;
+    position:relative;
+    top:-355px;
+    left: 24.5%; 
+
+   
+
+}
+.col-lg-4{
+
+    position:relative;
+    left: 130px;
+}
+h2{
+
+    position:relative;
+    text-align: center;
+    
+}
+
+  .bi-github{
+ color: black;
+  }
+  .bi-linkedin{
+      color: black;
+  }
+  
+
+
+
